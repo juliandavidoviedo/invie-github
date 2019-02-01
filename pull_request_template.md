@@ -1,5 +1,5 @@
 ## ¿Que cambio el proyecto? 
--[] Frontend
--[] Backend
--[] Server
+- [ ] Frontend
+- [ ] Backend
+- [ ] Server
 ## ¿Como lo pruebo?
